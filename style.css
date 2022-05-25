@@ -2,7 +2,15 @@
     background-color: black;
     color: white;
     text-align: center;
-    font-family: 'Staatliches', cursive;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2, p {
+    font-size: 25px;
 }
 
 .foot {
